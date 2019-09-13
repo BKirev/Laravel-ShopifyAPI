@@ -1,5 +1,5 @@
 {
-    "name": "bnmetrics/laravel-shopify-api",
+    "name": "bkirev/laravel-shopify-api",
     "description": "Shopify API wrapper for laravel",
     "keywords": ["shopify", "laravel"],
     "license": "MIT",
